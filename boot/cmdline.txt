@@ -1,0 +1,1 @@
+console=ttyS0,115200 root=/dev/ram0 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait splash plymouth.ignore-serial-consoles initrd=0x14c00000,0x215ba00
